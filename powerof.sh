@@ -1,5 +1,4 @@
 #!/bin/bash -x
-
 read -p "enter to print table": n
 base=2;
 val=$(( 2**n ))
