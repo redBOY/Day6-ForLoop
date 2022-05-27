@@ -1,5 +1,4 @@
 #!/bin/bash -x
-
 read -p "enter a number to check": n
 for(( i=2; i<=num; i++))
 do
