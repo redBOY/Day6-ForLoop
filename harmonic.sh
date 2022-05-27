@@ -1,4 +1,5 @@
 #!/bin/bash -x
+
 read -p "enter the number to print harmonic value": n
 harmonic=0;
 for((i=1; i<=n; i++))
