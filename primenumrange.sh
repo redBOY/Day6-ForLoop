@@ -1,5 +1,4 @@
 #!/bin/bash -x
-
 read -p "enter the number": M
 for(( i=2; i<=$M; i++))
 do
